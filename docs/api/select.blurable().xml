@@ -31,7 +31,7 @@
 		Select provides the ability for the item selection in the table to be removed when the end user clicks on an element outside of the table - i.e. the selection is blurred. This ability can be enabled and disabled dynamically using this method.
 	</description>
 
-	<example title="Enable item selection bluring using the API"><![CDATA[
+	<example title="Enable item selection blurring using the API"><![CDATA[
 var table = new DataTable('#myTable');
 
 table.select.blurable(true);
