@@ -30,7 +30,7 @@
     {
       "id": "4",
       "name": "Cedric Kelly",
-      "position": "Senior Javascript Developer",
+      "position": "Senior JavaScript Developer",
       "salary": "$433,060",
       "start_date": "2012/03/29",
       "office": "Edinburgh",
@@ -75,7 +75,7 @@
     {
       "id": "9",
       "name": "Colleen Hurst",
-      "position": "Javascript Developer",
+      "position": "JavaScript Developer",
       "salary": "$205,500",
       "start_date": "2009/09/15",
       "office": "San Francisco",
@@ -444,7 +444,7 @@
     {
       "id": "50",
       "name": "Jennifer Acosta",
-      "position": "Junior Javascript Developer",
+      "position": "Junior JavaScript Developer",
       "salary": "$75,650",
       "start_date": "2013/02/01",
       "office": "Edinburgh",
@@ -498,7 +498,7 @@
     {
       "id": "56",
       "name": "Michael Bruce",
-      "position": "Javascript Developer",
+      "position": "JavaScript Developer",
       "salary": "$183,000",
       "start_date": "2011/06/27",
       "office": "Singapore",
